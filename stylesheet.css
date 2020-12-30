@@ -53,6 +53,22 @@ html, body {
     color: #013c41;
   }
 
+.sound {
+    background-color: #866586;
+  }
+
+  .youtube {
+    background-color: brown;
+  }
+
+  .face {
+    background-color: goldenrod;
+  }
+
+  .music {
+    background-color: mediumvioletred;
+  }
+
   a {
     color: #eb0c0c;
   }
